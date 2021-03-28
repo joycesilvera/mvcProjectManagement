@@ -6188,14 +6188,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joycesilvera/angular/mvcProjectManagement/MvcProjectManagement/MvcProjectManagement.csproj",
+      "projectUniqueName": "/Users/joycesilvera/Projects/MvcProjectManagement/MvcProjectManagement/MvcProjectManagement.csproj",
       "projectName": "MvcProjectManagement",
-      "projectPath": "/Users/joycesilvera/angular/mvcProjectManagement/MvcProjectManagement/MvcProjectManagement.csproj",
+      "projectPath": "/Users/joycesilvera/Projects/MvcProjectManagement/MvcProjectManagement/MvcProjectManagement.csproj",
       "packagesPath": "/Users/joycesilvera/.nuget/packages/",
-      "outputPath": "/Users/joycesilvera/angular/mvcProjectManagement/MvcProjectManagement/obj/",
+      "outputPath": "/Users/joycesilvera/Projects/MvcProjectManagement/MvcProjectManagement/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/joycesilvera/.config/NuGet/NuGet.Config"
+        "/Users/joycesilvera/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

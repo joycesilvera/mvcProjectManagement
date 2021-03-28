@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VemGnVmfttmrFN29txFuPqI1Tciiq5f6XOrmHdCUPBFJKl6msWby6G3KEN+dcMAouBGfocFIjmHoprRl/RMmcw==",
+  "dgSpecHash": "s8VAW4peUrybkVYJXzc/c1TTw2Bm4EeGwSzd/+GIqkatPD3Awqj6E4CyLlVSz9dcjdZNUjxc8NiQkBjMWMVtEw==",
   "success": true,
-  "projectFilePath": "/Users/joycesilvera/angular/mvcProjectManagement/MvcProjectManagement/MvcProjectManagement.csproj",
+  "projectFilePath": "/Users/joycesilvera/Projects/MvcProjectManagement/MvcProjectManagement/MvcProjectManagement.csproj",
   "expectedPackageFiles": [
     "/Users/joycesilvera/.nuget/packages/microsoft.aspnet.mvc/5.0.0/microsoft.aspnet.mvc.5.0.0.nupkg.sha512",
     "/Users/joycesilvera/.nuget/packages/microsoft.aspnet.razor/3.0.0/microsoft.aspnet.razor.3.0.0.nupkg.sha512",
